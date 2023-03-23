@@ -1,0 +1,8 @@
+E:\TP\TP14\TP14\bin\Debug\TP14.exe.config
+E:\TP\TP14\TP14\bin\Debug\TP14.exe
+E:\TP\TP14\TP14\bin\Debug\TP14.pdb
+E:\TP\TP14\TP14\obj\Debug\TP14.csproj.AssemblyReference.cache
+E:\TP\TP14\TP14\obj\Debug\TP14.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP14\TP14\obj\Debug\TP14.csproj.CoreCompileInputs.cache
+E:\TP\TP14\TP14\obj\Debug\TP14.exe
+E:\TP\TP14\TP14\obj\Debug\TP14.pdb

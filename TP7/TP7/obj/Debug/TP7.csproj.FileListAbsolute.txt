@@ -1,0 +1,6 @@
+E:\TP\TP7\TP7\bin\Debug\TP7.exe.config
+E:\TP\TP7\TP7\bin\Debug\TP7.exe
+E:\TP\TP7\TP7\bin\Debug\TP7.pdb
+E:\TP\TP7\TP7\obj\Debug\TP7.csproj.CoreCompileInputs.cache
+E:\TP\TP7\TP7\obj\Debug\TP7.exe
+E:\TP\TP7\TP7\obj\Debug\TP7.pdb

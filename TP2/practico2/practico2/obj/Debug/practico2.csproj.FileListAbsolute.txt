@@ -1,0 +1,7 @@
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\bin\Debug\practico2.exe.config
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\bin\Debug\practico2.exe
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\bin\Debug\practico2.pdb
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\obj\Debug\practico2.csprojAssemblyReference.cache
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\obj\Debug\practico2.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\obj\Debug\practico2.exe
+D:\MisCosas\Documents\TP\TP2\practico2\practico2\obj\Debug\practico2.pdb

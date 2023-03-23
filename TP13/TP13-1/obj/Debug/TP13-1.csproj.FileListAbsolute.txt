@@ -1,0 +1,16 @@
+E:\TP\TP13-1\TP13-1\bin\Debug\TP13-1.exe.config
+E:\TP\TP13-1\TP13-1\bin\Debug\TP13-1.exe
+E:\TP\TP13-1\TP13-1\bin\Debug\TP13-1.pdb
+E:\TP\TP13-1\TP13-1\obj\Debug\TP13-1.csproj.AssemblyReference.cache
+E:\TP\TP13-1\TP13-1\obj\Debug\TP13-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP13-1\TP13-1\obj\Debug\TP13-1.csproj.CoreCompileInputs.cache
+E:\TP\TP13-1\TP13-1\obj\Debug\TP13-1.exe
+E:\TP\TP13-1\TP13-1\obj\Debug\TP13-1.pdb
+E:\TP\TP13\TP13-1\bin\Debug\TP13-1.exe.config
+E:\TP\TP13\TP13-1\bin\Debug\TP13-1.exe
+E:\TP\TP13\TP13-1\bin\Debug\TP13-1.pdb
+E:\TP\TP13\TP13-1\obj\Debug\TP13-1.csproj.AssemblyReference.cache
+E:\TP\TP13\TP13-1\obj\Debug\TP13-1.csproj.SuggestedBindingRedirects.cache
+E:\TP\TP13\TP13-1\obj\Debug\TP13-1.csproj.CoreCompileInputs.cache
+E:\TP\TP13\TP13-1\obj\Debug\TP13-1.exe
+E:\TP\TP13\TP13-1\obj\Debug\TP13-1.pdb

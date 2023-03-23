@@ -1,0 +1,6 @@
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\bin\Debug\practico1.exe.config
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\bin\Debug\practico1.exe
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\bin\Debug\practico1.pdb
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\obj\Debug\practico1.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\obj\Debug\practico1.exe
+D:\MisCosas\Documents\TP\TP1\practico1\practico1\obj\Debug\practico1.pdb

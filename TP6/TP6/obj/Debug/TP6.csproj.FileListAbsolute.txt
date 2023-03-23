@@ -1,0 +1,7 @@
+D:\MisCosas\Documents\TP\TP6\TP6\obj\Debug\TP6.csprojAssemblyReference.cache
+D:\MisCosas\Documents\TP\TP6\TP6\obj\Debug\TP6.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP6\TP6\bin\Debug\TP6.exe.config
+D:\MisCosas\Documents\TP\TP6\TP6\bin\Debug\TP6.exe
+D:\MisCosas\Documents\TP\TP6\TP6\bin\Debug\TP6.pdb
+D:\MisCosas\Documents\TP\TP6\TP6\obj\Debug\TP6.exe
+D:\MisCosas\Documents\TP\TP6\TP6\obj\Debug\TP6.pdb

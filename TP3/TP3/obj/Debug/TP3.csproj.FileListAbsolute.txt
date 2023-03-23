@@ -1,0 +1,7 @@
+D:\MisCosas\Documents\TP\TP3\TP3\obj\Debug\TP3.csprojAssemblyReference.cache
+D:\MisCosas\Documents\TP\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP3\TP3\bin\Debug\TP3.exe.config
+D:\MisCosas\Documents\TP\TP3\TP3\bin\Debug\TP3.exe
+D:\MisCosas\Documents\TP\TP3\TP3\bin\Debug\TP3.pdb
+D:\MisCosas\Documents\TP\TP3\TP3\obj\Debug\TP3.exe
+D:\MisCosas\Documents\TP\TP3\TP3\obj\Debug\TP3.pdb

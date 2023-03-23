@@ -1,0 +1,7 @@
+E:\TP\TP6-1\TP6-1\bin\Debug\TP6-1.exe.config
+E:\TP\TP6-1\TP6-1\bin\Debug\TP6-1.exe
+E:\TP\TP6-1\TP6-1\bin\Debug\TP6-1.pdb
+E:\TP\TP6-1\TP6-1\obj\Debug\TP6-1.csprojAssemblyReference.cache
+E:\TP\TP6-1\TP6-1\obj\Debug\TP6-1.csproj.CoreCompileInputs.cache
+E:\TP\TP6-1\TP6-1\obj\Debug\TP6-1.exe
+E:\TP\TP6-1\TP6-1\obj\Debug\TP6-1.pdb

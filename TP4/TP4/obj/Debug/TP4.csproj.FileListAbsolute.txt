@@ -1,0 +1,6 @@
+D:\MisCosas\Documents\TP\TP4\TP4\obj\Debug\TP4.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP4\TP4\bin\Debug\TP4.exe.config
+D:\MisCosas\Documents\TP\TP4\TP4\bin\Debug\TP4.exe
+D:\MisCosas\Documents\TP\TP4\TP4\bin\Debug\TP4.pdb
+D:\MisCosas\Documents\TP\TP4\TP4\obj\Debug\TP4.exe
+D:\MisCosas\Documents\TP\TP4\TP4\obj\Debug\TP4.pdb

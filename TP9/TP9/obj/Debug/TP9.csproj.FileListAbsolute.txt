@@ -1,0 +1,7 @@
+E:\TP\TP9\TP9\obj\Debug\TP9.csprojAssemblyReference.cache
+E:\TP\TP9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+E:\TP\TP9\TP9\bin\Debug\TP9.exe.config
+E:\TP\TP9\TP9\bin\Debug\TP9.exe
+E:\TP\TP9\TP9\bin\Debug\TP9.pdb
+E:\TP\TP9\TP9\obj\Debug\TP9.exe
+E:\TP\TP9\TP9\obj\Debug\TP9.pdb

@@ -1,0 +1,7 @@
+E:\TP\TP12\TP12\bin\Debug\TP12.exe.config
+E:\TP\TP12\TP12\bin\Debug\TP12.exe
+E:\TP\TP12\TP12\bin\Debug\TP12.pdb
+E:\TP\TP12\TP12\obj\Debug\TP12.csprojAssemblyReference.cache
+E:\TP\TP12\TP12\obj\Debug\TP12.csproj.CoreCompileInputs.cache
+E:\TP\TP12\TP12\obj\Debug\TP12.exe
+E:\TP\TP12\TP12\obj\Debug\TP12.pdb

@@ -1,0 +1,7 @@
+E:\TP\TP10\TP10\bin\Debug\TP10.exe.config
+E:\TP\TP10\TP10\bin\Debug\TP10.exe
+E:\TP\TP10\TP10\bin\Debug\TP10.pdb
+E:\TP\TP10\TP10\obj\Debug\TP10.csproj.CoreCompileInputs.cache
+E:\TP\TP10\TP10\obj\Debug\TP10.exe
+E:\TP\TP10\TP10\obj\Debug\TP10.pdb
+E:\TP\TP10\TP10\obj\Debug\TP10.csprojAssemblyReference.cache

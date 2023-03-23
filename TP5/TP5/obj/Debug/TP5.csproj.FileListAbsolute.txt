@@ -1,0 +1,7 @@
+D:\MisCosas\Documents\TP\TP5\TP5\bin\Debug\TP5.exe.config
+D:\MisCosas\Documents\TP\TP5\TP5\bin\Debug\TP5.exe
+D:\MisCosas\Documents\TP\TP5\TP5\bin\Debug\TP5.pdb
+D:\MisCosas\Documents\TP\TP5\TP5\obj\Debug\TP5.csprojAssemblyReference.cache
+D:\MisCosas\Documents\TP\TP5\TP5\obj\Debug\TP5.csproj.CoreCompileInputs.cache
+D:\MisCosas\Documents\TP\TP5\TP5\obj\Debug\TP5.exe
+D:\MisCosas\Documents\TP\TP5\TP5\obj\Debug\TP5.pdb

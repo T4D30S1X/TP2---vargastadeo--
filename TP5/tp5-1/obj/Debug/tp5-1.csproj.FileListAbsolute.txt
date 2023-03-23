@@ -1,0 +1,7 @@
+E:\TP\tp5-1\tp5-1\obj\Debug\tp5-1.csprojAssemblyReference.cache
+E:\TP\tp5-1\tp5-1\obj\Debug\tp5-1.csproj.CoreCompileInputs.cache
+E:\TP\tp5-1\tp5-1\bin\Debug\tp5-1.exe.config
+E:\TP\tp5-1\tp5-1\bin\Debug\tp5-1.exe
+E:\TP\tp5-1\tp5-1\bin\Debug\tp5-1.pdb
+E:\TP\tp5-1\tp5-1\obj\Debug\tp5-1.exe
+E:\TP\tp5-1\tp5-1\obj\Debug\tp5-1.pdb

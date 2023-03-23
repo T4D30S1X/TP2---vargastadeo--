@@ -1,0 +1,6 @@
+E:\TP\TP8\TP8\bin\Debug\TP8.exe.config
+E:\TP\TP8\TP8\bin\Debug\TP8.exe
+E:\TP\TP8\TP8\bin\Debug\TP8.pdb
+E:\TP\TP8\TP8\obj\Debug\TP8.csproj.CoreCompileInputs.cache
+E:\TP\TP8\TP8\obj\Debug\TP8.exe
+E:\TP\TP8\TP8\obj\Debug\TP8.pdb

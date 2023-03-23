@@ -1,0 +1,7 @@
+E:\TP\TP11\TP11\bin\Debug\TP11.exe.config
+E:\TP\TP11\TP11\bin\Debug\TP11.exe
+E:\TP\TP11\TP11\bin\Debug\TP11.pdb
+E:\TP\TP11\TP11\obj\Debug\TP11.csproj.CoreCompileInputs.cache
+E:\TP\TP11\TP11\obj\Debug\TP11.exe
+E:\TP\TP11\TP11\obj\Debug\TP11.pdb
+E:\TP\TP11\TP11\obj\Debug\TP11.csprojAssemblyReference.cache
